@@ -42,5 +42,5 @@ This framework simulates a complete trading decision pipeline using four special
 
 ---
 
-## 🏗 System Architecture (Hierarchical Process)
+
 
